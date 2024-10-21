@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/hoy/.nuget/packages/": {}
+    "C:\\Users\\alanr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/alanr/Documents/revisando-c-sharp/aula-1/aula-1.csproj",
+      "projectUniqueName": "C:\\Users\\alanr\\Documents\\revisando-c-sharp\\aula-1\\aula-1.csproj",
       "projectName": "aula-1",
-      "projectPath": "/mnt/c/Users/alanr/Documents/revisando-c-sharp/aula-1/aula-1.csproj",
-      "packagesPath": "/home/hoy/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/alanr/Documents/revisando-c-sharp/aula-1/obj/",
+      "projectPath": "C:\\Users\\alanr\\Documents\\revisando-c-sharp\\aula-1\\aula-1.csproj",
+      "packagesPath": "C:\\Users\\alanr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alanr\\Documents\\revisando-c-sharp\\aula-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/hoy/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\alanr\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
