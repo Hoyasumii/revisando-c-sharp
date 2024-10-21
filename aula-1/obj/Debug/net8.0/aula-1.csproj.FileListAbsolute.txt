@@ -1,0 +1,14 @@
+/mnt/c/Users/alanr/Documents/revisando-c-sharp/aula-1/bin/Debug/net8.0/aula-1
+/mnt/c/Users/alanr/Documents/revisando-c-sharp/aula-1/bin/Debug/net8.0/aula-1.deps.json
+/mnt/c/Users/alanr/Documents/revisando-c-sharp/aula-1/bin/Debug/net8.0/aula-1.runtimeconfig.json
+/mnt/c/Users/alanr/Documents/revisando-c-sharp/aula-1/bin/Debug/net8.0/aula-1.dll
+/mnt/c/Users/alanr/Documents/revisando-c-sharp/aula-1/bin/Debug/net8.0/aula-1.pdb
+/mnt/c/Users/alanr/Documents/revisando-c-sharp/aula-1/obj/Debug/net8.0/aula-1.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/alanr/Documents/revisando-c-sharp/aula-1/obj/Debug/net8.0/aula-1.AssemblyInfoInputs.cache
+/mnt/c/Users/alanr/Documents/revisando-c-sharp/aula-1/obj/Debug/net8.0/aula-1.AssemblyInfo.cs
+/mnt/c/Users/alanr/Documents/revisando-c-sharp/aula-1/obj/Debug/net8.0/aula-1.csproj.CoreCompileInputs.cache
+/mnt/c/Users/alanr/Documents/revisando-c-sharp/aula-1/obj/Debug/net8.0/aula-1.dll
+/mnt/c/Users/alanr/Documents/revisando-c-sharp/aula-1/obj/Debug/net8.0/refint/aula-1.dll
+/mnt/c/Users/alanr/Documents/revisando-c-sharp/aula-1/obj/Debug/net8.0/aula-1.pdb
+/mnt/c/Users/alanr/Documents/revisando-c-sharp/aula-1/obj/Debug/net8.0/aula-1.genruntimeconfig.cache
+/mnt/c/Users/alanr/Documents/revisando-c-sharp/aula-1/obj/Debug/net8.0/ref/aula-1.dll
